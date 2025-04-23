@@ -16,6 +16,7 @@ ls
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/3e6987b5-bf22-43f8-a048-57a7fd8488fa)
 
 ### 2. `pwd` Command
 
@@ -27,6 +28,7 @@ pwd
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/2da7fae9-734c-4c90-aa07-21b826142b22)
 
 ### 3. `mkdir` Command
 
@@ -38,6 +40,7 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/87289925-418d-403a-ad21-433c2d7caaf2)
 
 ### 4. `rmdir` Command
 
@@ -49,6 +52,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/1a6f735b-e4dd-49d9-b6e9-350c542adc5d)
 
 ### 5. `cd` Command
 
@@ -60,6 +64,7 @@ cd <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/cdb16d93-7db3-4669-8163-77f20645178d)
 
 ### 6. `cat` Command
 
@@ -71,6 +76,7 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/57d1ca06-009c-4df9-a609-3bd9b3aa2d12)
 
 ### 7. `cp` Command
 
@@ -82,6 +88,7 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/32cef844-47de-4cc8-9e23-4d0a8a734d5f)
 
 ### 8. `gedit` Command
 
@@ -93,6 +100,7 @@ gedit <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/e34777c5-1276-4c35-aff7-3fe60807c641)
 
 ### 9. `su` Command
 
@@ -104,6 +112,7 @@ su <username>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/b2727936-a17f-4372-89cd-b5d24cfa1cac)
 
 ### 10. `mv` Command
 
@@ -115,6 +124,7 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/94294518-7279-4d6e-9d56-ee2f779cf7e0)
 
 ### 11. `rename` Command
 
@@ -126,6 +136,7 @@ rename 's/old-name/new-name/' <files>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/097652a7-810f-41d6-8900-8f1e6d9edef0)
 
 ### 12. `head` Command
 
@@ -137,6 +148,7 @@ head <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/65b0661c-e357-44dd-a229-75e2ad5236b1)
 
 ### 13. `tail` Command
 
@@ -148,6 +160,7 @@ tail <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/f8e0cc09-d45e-42b6-bc1c-192d931e02bf)
 
 ### 14. `id` Command
 
@@ -159,6 +172,7 @@ id
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/8b544365-7ae7-4d3c-92e6-80a4d19e8c02)
 
 ### 15. `grep` Command
 
@@ -170,6 +184,7 @@ command | grep <search_word>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/e33cf54e-1189-4726-a133-2664bb787c8e)
 
 ### 16. `tr` Command
 
@@ -181,7 +196,10 @@ command | tr <old> <new>
 ```
 
 **Output:**
-
+command | tr <old> <new>
+echo "hello world" | tr 'a-z' 'A-Z'
+echo "banana" | tr -d 'a'
+echo "one two three" | tr ' ' '\n'
 ### 17. `chmod` Command
 
 The `chmod` command is used to change the access mode (permissions) of a file.
@@ -192,6 +210,7 @@ chmod <options> <permissions> <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/d90119e5-d7a2-4b4e-9cf5-5af96cdae431)
 
 ### 18. `tar` Command
 
@@ -203,6 +222,7 @@ tar [options] [archive-file] [files_to_archive]
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/b646ced0-0405-417a-aacd-e688e48b9acd)
 
 ### 19. `chown` Command
 
@@ -214,6 +234,7 @@ chown <owner_name> <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/2548e77c-ebd4-48b3-93c0-b57b680790ad)
 
 ### 20. `make` Command
 
@@ -225,6 +246,7 @@ make [-f makefile] [options] [targets]
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/1c07e265-b6c4-40e7-b706-cee4d93b5a6b)
 
 ### 21. `ifconfig` Command
 
@@ -236,6 +258,7 @@ ifconfig [options] [interface]
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/1c355f8b-6149-45ea-b53f-3e7393ebf800)
 
 ### 22. `chmod 777` Command
 
@@ -248,6 +271,7 @@ chmod -R 777 /path/to/file/or/folder
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/0c063fe3-3e65-4cb7-b5b8-4a8c89889682)
 
 ### 23. `host` Command
 
@@ -259,6 +283,7 @@ host <domain_name> or <ip_address>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/5eac3bcb-5a6f-4c82-8c5d-3e67c5af5e46)
 
 ### 24. `gzip` Command
 
@@ -270,6 +295,7 @@ gzip <file1> <file2> <file3>...
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/d0601044-0595-4c7a-aafa-477538c950eb)
 
 ### 25. `sort` Command
 
@@ -281,6 +307,7 @@ sort <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/7947acca-dd27-48d3-8e49-5fa7c82ab4c9)
 
 ### 26. `cal` Command
 
@@ -292,6 +319,8 @@ cal
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/ac92330d-2315-4e26-9ffc-ac804defc345)
+
 
 ### 27. `clear` Command
 
@@ -303,6 +332,7 @@ clear
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/66a10468-554e-4fb2-9a15-240adcfeee06)
 
 ### 28. `mail` Command
 
@@ -314,6 +344,7 @@ mail
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/87a7aac7-8400-4990-ba55-c6621af1b940)
 
 ### 29. `df` Command
 
@@ -325,6 +356,7 @@ df
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/95e31516-0f21-4fdc-815d-47e860c9ffbf)
 
 ### 30. `find` Command
 
@@ -336,5 +368,6 @@ find <directory> -name <file_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/fc96aef7-a94d-4323-ab4d-2ed3f63367fd)
 
 ## Result
